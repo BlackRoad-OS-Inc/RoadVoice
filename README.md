@@ -1,3 +1,11 @@
+# RoadVoice
+
+> RoadVoice — Sovereign speech-to-text. BlackRoad fork of Whisper. Local voice processing on Pi fleet.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # Whisper
 
 [[Blog]](https://openai.com/blog/whisper)
